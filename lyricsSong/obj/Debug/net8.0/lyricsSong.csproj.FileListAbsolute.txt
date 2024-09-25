@@ -1,0 +1,14 @@
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\bin\Debug\net8.0\lyricsSong.exe
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\bin\Debug\net8.0\lyricsSong.deps.json
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\bin\Debug\net8.0\lyricsSong.runtimeconfig.json
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\bin\Debug\net8.0\lyricsSong.dll
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\bin\Debug\net8.0\lyricsSong.pdb
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\lyricsSong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\lyricsSong.AssemblyInfoInputs.cache
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\lyricsSong.AssemblyInfo.cs
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\lyricsSong.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\lyricsSong.dll
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\refint\lyricsSong.dll
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\lyricsSong.pdb
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\lyricsSong.genruntimeconfig.cache
+C:\Users\Eric\source\repos\lyricsSong\lyricsSong\obj\Debug\net8.0\ref\lyricsSong.dll
